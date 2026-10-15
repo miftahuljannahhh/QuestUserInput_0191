@@ -100,3 +100,6 @@ fun FormDataDiri(modifier: Modifier){
                 alamat=textAlamat
             }
         ) {
+            Text(stringResource(id = R.string.submit))
+        }
+        
